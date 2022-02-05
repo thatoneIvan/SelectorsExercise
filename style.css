@@ -1,0 +1,39 @@
+/* 1 */
+/* go live */
+/* 2 */
+body{
+background-color: #ced4d8;}
+/* 3 */
+h1{
+color: #ac6ac7}
+/* 4 */
+h2{color: rgb(255, 165, 0);}
+/* 5 */
+li{color: blue}
+/* 6 */
+p{background-color: gold;}
+/* 7 */
+input{border: dotted;color: pink;}
+/* LOOK INTO THIS ONE AGAIN other possible ways */
+/* INPUT {border:5px dotted pink; */
+/* label input {border;5px dotted pink;*/
+/* or */
+/* input [type="text", [type="email"] border:5px dotted pink */
+/* 8 */
+.first{background-color: #fff;}
+/* 9 */
+#important{border:3px dashed #0000ff;}
+/* 10 */
+div p{font-size: 30px;}
+/* look at this */
+/* 11 */
+[type="email"]{
+background-color: #808080;}
+ /* 12 */
+ div:nth-of-type(3) p{background-color: hotpink;}
+ /* 13 */
+ div:nth-of-type(2) p:nth-of-type(1)
+ {border:7px solid rgb(255, 255, 255)}
+/* 14 */
+div p em{color: seashell;font-size: 30px;}
+/* updated 02/05/22 */
